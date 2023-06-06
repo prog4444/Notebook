@@ -12,7 +12,7 @@ This repo is functionality complete — PRs and issues welcome!
 
 Clone the repository
 
-    git clone https://github.com/prog4444/lessons-programming.git
+    git clone https://github.com/prog4444/Notebook.git
 
 Switch to the repo folder
 
@@ -50,11 +50,11 @@ Start the local development server
 You can now access the server at http://localhost:8000
 
     http://localhost:8000/api/documentation
-    http://localhost:8000/admin
+    
 
 TL;DR command list
 
-    git clone https://github.com/prog4444/laravel.git
+    git clone https://github.com/prog4444/Notebook.git
     cd laravel
     composer install
     cp .env.example .env
